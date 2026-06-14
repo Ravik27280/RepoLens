@@ -1,4 +1,4 @@
-````md
+
 # RepoLens 🔍
 
 > AI-powered GitHub repository analysis and onboarding assistant.
@@ -259,7 +259,7 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Ravik Kushwaha**
+**Ravi Kumar Vishwakarma**
 
 Building AI-powered developer tools to improve software engineering productivity.
 
